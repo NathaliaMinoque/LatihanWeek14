@@ -16,5 +16,10 @@ namespace coba_buat_array_textbox
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
